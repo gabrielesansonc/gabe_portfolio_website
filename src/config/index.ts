@@ -21,7 +21,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "Instagram", href: "https://github.com/immois/astro-zen" },
     { text: "Tik Tok", href: "https://github.com/immois/astro-zen" },
   ],
-  socialImage: "/zen-og.png",
+  socialImage: "/gabriel-preview.png",
   canonicalURL: "https://astro-zen.vercel.app",
 };
 
