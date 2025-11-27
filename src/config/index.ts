@@ -81,21 +81,21 @@ export const SITE_CONTENT: SiteContent = {
   projects: [
     {
       name: "Demystifying xG in Football",
-      summary: "This visualization puts xG in context by showing real-world shot outcomes. It helps you understand the why behind the famous xG metric in soccer.",
+      summary: "This visualization simplifies the famous xG metric in soccer.",
       linkPreview: "https://gabrielsanson.pythonanywhere.com",
       linkSource: "https://github.com/gabrielesansonc/demistifying_xg_viz",
       image: "/xg.png",
     },
     {
       name: "Football Match Outcome Predictor",
-      summary: "A webpage that uses a powerful machine learning model to make outcome predictions on La Liga and Premier League matches.",
+      summary: "A webpage that uses machine learning to make result predictions on La Liga and EPL matches.",
       linkPreview: "https://football-match-predict.streamlit.app",
       linkSource: "https://github.com/gabrielesansonc/FootballPredictions",
       image: "/predictions.png",
     },
     {
       name: "Portfolio Risk-Return Simulator",
-      summary: "A Portfolio Simulator inspired by Markowitz’s Portfolio Theory",
+      summary: "A Portfolio Simulator inspired by Markowitz’s Portfolio Theory.",
       linkPreview: "https://gabrielesansonc.github.io/ModernPortfolioTheoryViz/",
       linkSource: "https://github.com/gabrielesansonc/ModernPortfolioTheoryViz",
       image: "/portfolio.png",
