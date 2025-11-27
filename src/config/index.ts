@@ -22,7 +22,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "Tik Tok", href: "https://github.com/immois/astro-zen" },
   ],
   socialImage: "/gabriel-preview.png",
-  canonicalURL: "https://astro-zen.vercel.app",
+  canonicalURL: "https://gabesportfolio.vercel.app",
 };
 
 export const SITE_CONTENT: SiteContent = {
