@@ -112,7 +112,7 @@ export const SITE_CONTENT: SiteContent = {
     description: `
       I'm a Data Scientist who loves digging into data to uncover cool insights. Whether it's for work, personal projects, or just out of curiosity. I enjoy using my skills to solve problems and make sense of the world around me.
     `,
-    image: "/gabe_goat.JPG",
+    image: "/gabe_goat.png",
   },
 };
 
