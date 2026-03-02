@@ -80,6 +80,13 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
+      name: "Betting Market Simulation",
+      summary: "This is a simulation that helped me understand intuition behind how betting markets (and the stock market) work.",
+      linkPreview: "https://gabrielesansonc.github.io/market_simulation/",
+      linkSource: "https://github.com/gabrielesansonc/market_simulation",
+      image: "/kalshi.png",
+    },
+    {
       name: "Demystifying xG in Football",
       summary: "This visualization simplifies the famous xG metric in soccer.",
       linkPreview: "https://gabrielsanson.pythonanywhere.com",
