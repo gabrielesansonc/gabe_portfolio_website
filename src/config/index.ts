@@ -80,11 +80,11 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Betting Market Simulation",
-      summary: "This is a simulation that helped me understand intuition behind how betting markets (and the stock market) work.",
-      linkPreview: "https://gabrielesansonc.github.io/market_simulation/",
-      linkSource: "https://github.com/gabrielesansonc/market_simulation",
-      image: "/kalshi.png",
+      name: "World Cup 2026 Montecarlo Simulation",
+      summary: "AI and simulation approach in predicting World Cup 2026 outcomes.",
+      linkPreview: "https://world-cup-simulator-nine.vercel.app",
+      linkSource: "https://github.com/gabrielesansonc/world_cup_simulator",
+      image: "/wc.png",
     },
     {
       name: "Demystifying xG in Football",
@@ -113,6 +113,13 @@ export const SITE_CONTENT: SiteContent = {
       linkPreview: "https://winecalculator.streamlit.app",
       linkSource: "https://github.com/gabrielesansonc/wine",
       image: "/wine.png",
+    },
+    {
+      name: "Betting Market Simulation",
+      summary: "This is a simulation that helped me understand intuition behind how betting markets (and the stock market) work.",
+      linkPreview: "https://gabrielesansonc.github.io/market_simulation/",
+      linkSource: "https://github.com/gabrielesansonc/market_simulation",
+      image: "/kalshi.png",
     },
   ],
   about: {
