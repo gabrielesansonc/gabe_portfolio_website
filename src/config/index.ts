@@ -89,7 +89,7 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Demystifying xG in Football",
       summary: "This visualization simplifies the famous xG metric in soccer.",
-      linkPreview: "https://gabrielsanson.pythonanywhere.com",
+      linkPreview: "https://demistifying-xg-6a2kqy9yz-gabrielesansoncs-projects.vercel.app",
       linkSource: "https://github.com/gabrielesansonc/demistifying_xg_viz",
       image: "/xg.png",
     },
