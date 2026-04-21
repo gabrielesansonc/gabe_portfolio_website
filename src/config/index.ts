@@ -96,8 +96,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Football Match Outcome Predictor",
       summary: "A webpage that uses machine learning to make result predictions on La Liga and EPL matches.",
-      linkPreview: "https://football-match-predict.streamlit.app",
-      linkSource: "https://github.com/gabrielesansonc/FootballPredictions",
+      linkPreview: "https://epl-laliga-match-predictor.vercel.app",
+      linkSource: "https://github.com/gabrielesansonc/epl_laliga_match_predictor",
       image: "/predictions.png",
     },
     {
@@ -107,13 +107,13 @@ export const SITE_CONTENT: SiteContent = {
       linkSource: "https://github.com/gabrielesansonc/ModernPortfolioTheoryViz",
       image: "/portfolio.png",
     },
-    {
-      name: "Wine Preference Predictive Calculator",
-      summary: "A wine preference calculator that predicts if my wife is going to like a new wine or not",
-      linkPreview: "https://winecalculator.streamlit.app",
-      linkSource: "https://github.com/gabrielesansonc/wine",
-      image: "/wine.png",
-    },
+    // {
+    //   name: "Wine Preference Predictive Calculator",
+    //   summary: "A wine preference calculator that predicts if my wife is going to like a new wine or not",
+    //   linkPreview: "https://winecalculator.streamlit.app",
+    //   linkSource: "https://github.com/gabrielesansonc/wine",
+    //   image: "/wine.png",
+    // },
     {
       name: "Betting Market Simulation",
       summary: "This is a simulation that helped me understand intuition behind how betting markets (and the stock market) work.",
